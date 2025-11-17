@@ -1,7 +1,5 @@
-// cmd/pcli/main.go
 package main
 
-// Built-in
 import (
 	"log"
 	"os"

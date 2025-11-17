@@ -1,5 +1,9 @@
 # pcli – Project Creation CLI
 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
+
 A fast, extensible, interactive CLI for creating and bootstrapping development projects.
 
 ---
