@@ -90,6 +90,7 @@ debug-PATH:
 	@echo "  GOBIN: $(GOBIN)"
 	@echo "  BUILD_DIR: $(BUILD_DIR)"
 	@echo "  GO: $(GO)"
+	@echo "  APP_NAME: $(APP_NAME)"
 
 # ------------------------------------------------------------------------------------ #
 # HELP
@@ -98,7 +99,7 @@ help:
 	@echo ""
 	@echo "Available commands:"
 	@echo ""
-	@echo "  BUILD / CODEGEN:"
+	@echo "  BUILD:"
 	@echo "    make build APP_NAME=yourbinary         - Build binary (mandatory APP_NAME)"
 	@echo "    make clean APP_NAME=yourbinary         - Clean built binary"
 	@echo ""
